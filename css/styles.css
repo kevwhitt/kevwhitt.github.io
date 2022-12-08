@@ -3,6 +3,11 @@ body {
 }
 
 #sitename {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Terminator;
     text-align: center;
+}
+
+@font-face {
+    font-family: Terminator;
+    src: url('Terminator-mLLx.ttf');
 }
