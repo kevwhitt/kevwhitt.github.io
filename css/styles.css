@@ -7,7 +7,6 @@ body {
     text-align: center;
 }
 
-@font-face {
-    font-family: Terminator;
-    src: url('Terminator-mLLx.ttf');
+#banner {
+    background: rgba(218, 35, 35, 0.1);
 }
